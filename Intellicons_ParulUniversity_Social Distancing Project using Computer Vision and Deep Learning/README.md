@@ -1,9 +1,3 @@
-
-# Social Distancing using Computer Vision and Deep Learning
-
-This GitHub repository contains the source code and resources for an Intel Unnati Industrial Training project focused on implementing social distancing measures using computer vision and deep learning techniques. The project leverages Intel's OpenVINO toolkit to perform efficient inference on Intel hardware.
-
-
 ## Overview
 
 In the wake of the COVID-19 pandemic, maintaining social distancing has become crucial for public health and safety. This project aims to develop a robust solution that can automatically detect and monitor social distancing violations in real-time using computer vision and deep learning.
