@@ -10,7 +10,7 @@ Although we have added the drive link in the txt file above but still for your c
 
 ## Drive Link
 
- - [Click Here](https://drive.google.com/drive/folders/1sRD3fbkpvPVQA2zw85VrVelsf-1_AOrv)
+ - [Click Here](https://drive.google.com/file/d/17EdjH3mCN0NDdvExEl_wykYjTwT9870s/view?usp=sharing)
  
 
 
